@@ -1,0 +1,11 @@
+1.  Objects, in JavaScript, are the most important data type and form the building blocks for modern JavaScript. 
+                These objects are quite different from JavaScript’s primitive data types (Number, String, Boolean, null, undefined, and 
+                symbol)in the sense that these primitive data types all store a single value each (depending on their types).
+2.  Object()  can be called with or without new. Both create a new object.
+3.  Object: An Object is a unique entity that contains properties and methods.
+4.  he object can be created in two ways in JavaScript:
+                 *Object Literal
+                 *Object Constructor
+5.   It is a concept in which some properties and methods of an Object are being used by another Object. Unlike most of the OOP 
+                languages where classes inherit classes, JavaScript Objects inherit Objects i.e. certain features (property and methods) 
+                of one object can be reused by other Objects. 
